@@ -38,8 +38,8 @@ room, rendering that noise imperceptible to the user.
 
 ### Faculty Mentors ###
 
-* Dr. Brian L. Evans - <users.eceutexas.edu/~bevans/>
-* Dr. Greg Allen - <gallen.bitbucket.org>
+* Dr. Brian L. Evans - users.eceutexas.edu/~bevans/
+* Dr. Greg Allen - gallen.bitbucket.org
 
 ### The Team ###
 
