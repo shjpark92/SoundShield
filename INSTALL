@@ -1,0 +1,18 @@
+
+echo "Creating Directory 'build'";
+mkdir build
+
+echo "Copying Sound Shield Web Application to 'build'";
+cp -rf ./application/src/ ./build/html/
+
+echo "Copying Python scripts to 'build'";
+cp ./python/filter.py ./build/filter.py
+cp ./python/filterbank.py ./build/filterbank.py
+cp ./python/mask-preprocess.py ./build/mask-preprocess.py
+cp ./python/octbank.py ./build/octbank.py
+
+echo "Copying the entire mask directory to 'build'"
+cp -rf ./mask/ ./build/mask/
+
+echo "Finished! Go inside build directory and use 'cmake ..'";
+

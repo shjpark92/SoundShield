@@ -1,0 +1,9 @@
+find_path(SNDFILE_INCLUDE_DIRS NAMES sndfile.h PATHS /usr/include)
+find_library(SNDFILE_LIBRARY NAMES sndfile)
+#find_library(SNDFILECPP_LIBRARY NAMES sndfilecpp)
+
+set(SNDFILE_LIBRARIES ${SNDFILE_LIBRARY})
+
+include(FindPackageHandleStandardArgs)
+FIND_PACKAGE_HANDLE_STANDARD_ARGS(sndfile DEFAULT_MSG SNDFILE_LIBRARIES SNDFILE_INCLUDE_DIRS)
+

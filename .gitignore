@@ -1,0 +1,27 @@
+# .hgignore file for Sound-Shield
+
+# Ignore Build Files
+
+syntax: glob
+/build/**
+/test/**
+/demo/build/**
+./build/
+./test/
+./demo/build/
+*.DS_Store
+.DS_Store
+.DS_Store?
+*.txt~
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*.swp
+*.cpp~
+*.c~
+*.h~
+*~.nib
+*.orig
+
