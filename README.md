@@ -54,7 +54,7 @@ room, rendering that noise imperceptible to the user.
 ### Who do I talk to? ###
 
 * Joseph Park - shjpark92[at]gmail[dot]com
-* Negin Raoof - 
+* Negin Raoof - neginraoof[at]gmail[dot]com
 
 ### Release History ###
 * Prototype released on May 9th, 2016
