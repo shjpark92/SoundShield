@@ -1,15 +1,13 @@
-# README #
+# README
 
-### Sound Shield ###
-
+## Sound Shield
 * A dynamic noise masking solution
 * Fall 2015 - Spring 2016 by Team 17 "Freq Out" Senior Design Project
-* University of Texas at Austin
-* Electrical and Computer Engineering
+* The University of Texas at Austin
+* Department of Electrical and Computer Engineering
 * Prototype released on May 9, 2016
 
-### Purpose of SoundShield ###
-
+## Mission
 The goal is to create a software package that could 
 run on any home computer system, interfaced with a 
 microphone placed outside of the room for receiving 
@@ -27,8 +25,7 @@ and frequency content of the noise mask being played
 so that it matches that of the noise outside of the 
 room, rendering that noise imperceptible to the user.
 
-### Project Dependencies ###
-
+## Project Dependencies
 * PortAudio
 * FFTW3
 * libwebsockets
@@ -36,13 +33,11 @@ room, rendering that noise imperceptible to the user.
 * Python
 * NGINX (Only if running on Raspberry Pi)
 
-### Faculty Mentors ###
+## Faculty Mentors
+* [Dr. Brian L. Evans](http://users.ece.utexas.edu/~bevans/)
+* [Dr. Greg Allen](http://gallen.bitbucket.org/)
 
-* Dr. Brian L. Evans - users.eceutexas.edu/~bevans/
-* Dr. Greg Allen - gallen.bitbucket.org
-
-### The Team ###
-
+## Team "Freq Out"
 * Mark Leatherman 
 * Yeong Foong Choo 
 * Jun Qi Lau 
@@ -51,10 +46,21 @@ room, rendering that noise imperceptible to the user.
 * Negin Raoof 
 * Brandon Williams 
 
-### Who do I talk to? ###
-
+## Who still keeps up with this repo?
 * Joseph Park - shjpark92[at]gmail[dot]com
 * Negin Raoof - neginraoof[at]gmail[dot]com
 
-### Release History ###
+## And.. where is the web application...?
+It's right [here](https://github.com/shjpark92/SoundShield_Application).
+
+## Didn't you guys have a promotional video?
+Yup, [this](https://www.youtube.com/watch?v=Lkl4F5QG1MU) is the amazing YouTube video, created by Mark and Brandon.
+
+## Awards
+* 2nd Place - Honors & Entrepreneur Senior Design Project 2016
+
+## Papers
+* [Sound Shield Final Report](http://users.ece.utexas.edu/~bevans/courses/ee464/SoundShieldFinalReport.pdf)
+
+## Release History
 * Prototype released on May 9th, 2016
