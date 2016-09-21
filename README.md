@@ -46,9 +46,9 @@ room, rendering that noise imperceptible to the user.
 * Negin Raoof 
 * Brandon Williams 
 
-## Who still keeps up with this repo?
-* Joseph Park - shjpark92[at]gmail[dot]com
+## Who still maintains this repo?
 * Negin Raoof - neginraoof[at]gmail[dot]com
+* Joseph Park - shjpark92[at]gmail[dot]com
 
 ## And.. where is the web application...?
 It's right [here](https://github.com/shjpark92/SoundShield_Application).
